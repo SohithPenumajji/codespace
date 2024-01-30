@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1705843137 source:d:\prospace\mypracticeinc++\udemy\polymorphism\main.cpp
+	<iostream>
+	<vector>
+	"D:/prospace/MyPracticeinC++/Udemy/Polymorphism/include/Account.h"
+	"D:/prospace/MyPracticeinC++/Udemy/Polymorphism/include/Savings_Account.h"
+	"D:/prospace/MyPracticeinC++/Udemy/Polymorphism/include/Checking_Account.h"
+	"D:/prospace/MyPracticeinC++/Udemy/Polymorphism/include/Trust_Account.h"
+
+1705842014 d:\prospace\mypracticeinc++\udemy\polymorphism\include\account.h
+	<iostream>
+	<string>
+
+1705842068 d:\prospace\mypracticeinc++\udemy\polymorphism\include\savings_account.h
+	"Account.h"
+
+1705842121 d:\prospace\mypracticeinc++\udemy\polymorphism\include\checking_account.h
+	<iostream>
+	<string>
+	"Account.h"
+
+1705842192 d:\prospace\mypracticeinc++\udemy\polymorphism\include\trust_account.h
+	"Savings_Account.h"
+

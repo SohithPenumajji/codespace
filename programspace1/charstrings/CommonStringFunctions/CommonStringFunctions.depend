@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694444145 source:d:\prospace\programspace1\charstrings\commonstringfunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696071126 source:d:\prospace\mypracticeinc\geeksforgeeeks\multiplyfloatingnumbersusingfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+

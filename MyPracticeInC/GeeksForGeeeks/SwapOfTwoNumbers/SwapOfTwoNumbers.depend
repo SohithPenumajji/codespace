@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696072569 source:d:\prospace\mypracticeinc\geeksforgeeeks\swapoftwonumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

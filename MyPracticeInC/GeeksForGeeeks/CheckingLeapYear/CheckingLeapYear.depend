@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696393522 source:d:\prospace\mypracticeinc\geeksforgeeeks\checkingleapyear\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

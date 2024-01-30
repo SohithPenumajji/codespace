@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="programspace1" Database="" Version="10000">
+  <Project Name="MyFirstProgram" Path="MyFirstProgram/MyFirstProgram.project" Active="No"/>
+  <VirtualDirectory Name="Hello World">
+    <Project Name="programspace1" Path="programspace1/programspace1.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="printf" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="chracter" Path="chracter/chracter.project" Active="No"/>
+  <Project Name="enum" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Rectangle" Path="challenge3/challenge3.project" Active="No"/>
+  <Project Name="MinDaysYears" Path="Challenge4/Challenge4.project" Active="No"/>
+  <Project Name="sizeofBytes" Path="Challenge5/Challenge5.project" Active="No"/>
+  <Project Name="WeekPay" Path="Challenge6/Challenge6.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="PrimeNumbers" Path="PrimeNumbers/PrimeNumbers.project" Active="No"/>
+  <Project Name="Rainfall" Path="Rainfall/Rainfall.project" Active="No"/>
+  <Project Name="function1" Path="function1/function1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="MyFirstProgram" ConfigName="Debug"/>
+      <Project Name="cprogram" ConfigName="Debug"/>
+      <Project Name="printf" ConfigName="Debug"/>
+      <Project Name="chracter" ConfigName="Debug"/>
+      <Project Name="enum" ConfigName="Debug"/>
+      <Project Name="Rectangle" ConfigName="Debug"/>
+      <Project Name="MinDaysYears" ConfigName="Debug"/>
+      <Project Name="sizeofBytes" ConfigName="Debug"/>
+      <Project Name="WeekPay" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="PrimeNumbers" ConfigName="Debug"/>
+      <Project Name="Rainfall" ConfigName="Debug"/>
+      <Project Name="function1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="MyFirstProgram" ConfigName="Release"/>
+      <Project Name="cprogram" ConfigName="Release"/>
+      <Project Name="printf" ConfigName="Release"/>
+      <Project Name="chracter" ConfigName="Release"/>
+      <Project Name="enum" ConfigName="Release"/>
+      <Project Name="Rectangle" ConfigName="Release"/>
+      <Project Name="MinDaysYears" ConfigName="Release"/>
+      <Project Name="sizeofBytes" ConfigName="Release"/>
+      <Project Name="WeekPay" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="PrimeNumbers" ConfigName="Release"/>
+      <Project Name="Rainfall" ConfigName="Release"/>
+      <Project Name="function1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702649121 source:d:\prospace\dsa\recursion\tailhead\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

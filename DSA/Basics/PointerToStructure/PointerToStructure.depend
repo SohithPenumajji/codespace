@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702192029 source:d:\prospace\dsa\pointertostructure\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

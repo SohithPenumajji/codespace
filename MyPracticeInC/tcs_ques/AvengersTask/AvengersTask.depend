@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696081701 source:d:\prospace\mypracticeinc\tcs_ques\avengerstask\main.c
+	<stdio.h>
+	<stdlib.h>
+

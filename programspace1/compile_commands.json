@@ -1,0 +1,49 @@
+[{
+  "file": "D:\\prospace\\programspace1\\Rainfall\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Rainfall",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Rainfall\\main.c -o D:\\prospace\\programspace1\\Rainfall\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\PrimeNumbers\\main.c",
+  "directory": "D:\\prospace\\programspace1\\PrimeNumbers",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\PrimeNumbers\\main.c -o D:\\prospace\\programspace1\\PrimeNumbers\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Challenge5\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Challenge5",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Challenge5\\main.c -o D:\\prospace\\programspace1\\Challenge5\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Switch\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Switch",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Switch\\main.c -o D:\\prospace\\programspace1\\Switch\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\challenge3\\main.c",
+  "directory": "D:\\prospace\\programspace1\\challenge3",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\challenge3\\main.c -o D:\\prospace\\programspace1\\challenge3\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Challenge6\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Challenge6",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Challenge6\\main.c -o D:\\prospace\\programspace1\\Challenge6\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Challenge1\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Challenge1",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Challenge1\\main.c -o D:\\prospace\\programspace1\\Challenge1\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Challenge4\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Challenge4",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Challenge4\\main.c -o D:\\prospace\\programspace1\\Challenge4\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\Challenge2\\main.c",
+  "directory": "D:\\prospace\\programspace1\\Challenge2",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\Challenge2\\main.c -o D:\\prospace\\programspace1\\Challenge2\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\chracter\\main.c",
+  "directory": "D:\\prospace\\programspace1\\chracter",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\chracter\\main.c -o D:\\prospace\\programspace1\\chracter\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\programspace1\\main.c",
+  "directory": "D:\\prospace\\programspace1\\programspace1",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\programspace1\\main.c -o D:\\prospace\\programspace1\\programspace1\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\prospace\\programspace1\\MyFirstProgram\\main.c",
+  "directory": "D:\\prospace\\programspace1\\MyFirstProgram",
+  "command": "D:/Cygwin64/bin/gcc.exe -c D:\\prospace\\programspace1\\MyFirstProgram\\main.c -o D:\\prospace\\programspace1\\MyFirstProgram\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

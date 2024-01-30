@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705670873 source:d:\prospace\mypracticeinc++\udemy\mystring\main.cpp
+	<iostream>
+	"MyString.h"
+
+1705670736 d:\prospace\mypracticeinc++\udemy\mystring\include\mystring.h
+	<iostream>
+

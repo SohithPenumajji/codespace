@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696156989 source:d:\prospace\mypracticeinc\geeksforgeeeks\checkprimefrom1ton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

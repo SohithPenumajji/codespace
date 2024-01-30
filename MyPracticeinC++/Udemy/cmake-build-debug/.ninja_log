@@ -1,0 +1,17 @@
+# ninja log v5
+104	268	7283063296332802	CMakeFiles/Udemy.dir/OOPMovieChallenge/src/Movie.cpp.obj	5e118ebcc2c11b1d
+1	683	7283063300204279	CMakeFiles/Udemy.dir/AskingUserForFavNum/main.cpp.obj	bb219d774c11a723
+22	697	7283063300204279	CMakeFiles/Udemy.dir/AskInputFromUser/main.cpp.obj	ec93fb6220acda4b
+49	762	7283063300574286	CMakeFiles/Udemy.dir/DeepCopy/main.cpp.obj	f67008423e518fee
+59	762	7283063300969571	CMakeFiles/Udemy.dir/CaesarCipher/main.cpp.obj	13e51e78c3f454ce
+67	765	7283063301189597	CMakeFiles/Udemy.dir/BankApplication/src/Savings_Account.cpp.obj	eb26edb136ea1e7d
+13	773	7283063301259657	CMakeFiles/Udemy.dir/BankApplication/src/Account.cpp.obj	589fca2212c63807
+85	776	7283063301389599	CMakeFiles/Udemy.dir/MoveConst/main.cpp.obj	92b18f73e550f011
+30	791	7283063301539589	CMakeFiles/Udemy.dir/BankApplication/include/Account_Util.cpp.obj	f241779d54a5c039
+127	792	7283063301559590	CMakeFiles/Udemy.dir/MyString/src/MyString.cpp.obj	b46a3582f22af35c
+114	793	7283063301579594	CMakeFiles/Udemy.dir/MyString/main.cpp.obj	e36da024df476a37
+76	833	7283063301974888	CMakeFiles/Udemy.dir/MenuApplication/main.cpp.obj	fab7066c566d5a22
+94	869	7283063302354867	CMakeFiles/Udemy.dir/FunctionInC++/main.cpp.obj	79f2ab688cd09021
+39	955	7283063303210380	CMakeFiles/Udemy.dir/BankApplication/main.cpp.obj	e3c1a3b1b171a458
+685	1081	7283063304467285	CMakeFiles/Udemy.dir/PointersChallenge/main.cpp.obj	4eb18a24e0a92d
+697	1187	7283063305525543	CMakeFiles/Udemy.dir/OOPMovieChallenge/main.cpp.obj	653f561a3c2b0dad
